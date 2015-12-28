@@ -7,3 +7,6 @@
 #Note
 1. This function expects a S3 put event notification.
 2. It will download the image from S3, resize the image and upload back to S3
+
+
+This was heavily inspired from Stackoverflow post. But I am not able to find the reference now. Will update the link as soon as I find it again.
