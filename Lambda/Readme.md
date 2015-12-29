@@ -10,3 +10,6 @@
 
 
 This was heavily inspired from Stackoverflow post. But I am not able to find the reference now. Will update the link as soon as I find it again.
+
+#Reference : 
+- [Stackoverflow Post](http://stackoverflow.com/questions/30876345/in-amazon-lambda-resizing-multiple-thumbnail-sizes-in-parallel-async-throws-err)
